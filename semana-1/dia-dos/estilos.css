@@ -1,0 +1,48 @@
+* {background: black}
+
+h1 {
+	font-size: 2rem;
+	font-family: Lato; 
+	display: flex;
+  	justify-content: center;
+	color: #ffffff; 
+
+}
+
+h2 {
+	font-size: 1.5rem;
+	font-family: Lato; 
+	color: #ffffff; 
+	display: flex;
+  	justify-content: center;
+}
+
+.allende {
+	width :400px; 
+	height: 300px;
+    border-radius: 50%; 
+    display: flex;
+    justify-content: center;
+}
+
+.parrafo {
+	font-size: 0.5 rem;
+    font-family: Lato; 
+    color: #ffffff; 
+    display: flex;
+    justify-content: center;
+}
+
+a {
+
+	font-size: 0.3 rem;
+    font-family: lato; 
+    color: #ffffff; 
+    display: flex;
+  	justify-content: center;
+  	font-style: none;
+
+}
+
+
+

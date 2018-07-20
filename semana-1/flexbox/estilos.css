@@ -1,0 +1,18 @@
+.papa {
+	border: 1px solid;
+	display: flex;
+  justify-content: 
+  align-items: center;
+
+	height: 400px;
+
+
+}
+
+.hijo {
+	border: 1px solid blue
+	;
+	height: 50px;
+	width: 20%;
+
+}

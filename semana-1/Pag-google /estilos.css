@@ -1,0 +1,62 @@
+body{
+  font-family: arial,sans-serif;
+}
+.lista{
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  /* border: 1px solid blue; */
+}
+li{
+  /* border: 1px solid red; */
+  margin-left: 20px ;
+}
+.cuerpo{
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  align-items:  center;
+  margin: 0px;
+}
+.google{
+  width: 40%;
+}
+.linkbobo{
+  display: block;
+  margin-left:    20px ;
+  text-decoration: none;
+  color: grey;
+}
+.linkbobo:hover{
+  text-decoration: underline;
+}
+.linknormal{
+    text-decoration: none;
+}
+.linknormal:hover{
+    text-decoration:underline;
+}
+.botones{
+  /* border: 1px solid black; */
+  display: block;
+  text-align: center;
+}
+.boton{
+  list-style: none;
+  display: inline-block;
+  background: grey;
+  height: 30px;
+}
+.boton:hover{
+  border: 1px solid black;
+  font-weight: bold;
+}
+.searchBar{
+  border: 1px solid black;
+  text-align: center;
+  display: block;
+}
+.sBar {
+  
+}

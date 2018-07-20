@@ -1,0 +1,15 @@
+.titulo {
+	border: 1px solid;
+	display: inline; 
+	height: 100px;
+}
+
+.parrafo {
+	border: 1px solid;
+}
+
+.imagen-p {
+	border: 2px solid red;
+	width: 200px;
+
+}

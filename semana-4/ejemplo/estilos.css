@@ -1,0 +1,9 @@
+
+.container { background: grey; width: 800px; height: 200px;}
+
+
+
+
+.columna1 { border: 5px solid yellow; width: 30px; height: 30px;}
+.columna2 { border: 5px solid purple; width: 30px; height: 30px;}
+.columna3 { border: 5px solid black; width: 30px; height: 30px;}

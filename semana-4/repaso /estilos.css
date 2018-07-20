@@ -1,0 +1,17 @@
+.img-container {
+	height: 400px;
+
+}
+
+.img-container .img-up {
+	transform: translateY(-20%) transform: scale(2); /*las escalas se ponen en números enteros. 2 es dos veces su tamaño*/
+}
+
+.custom-card {
+	width: 500px;
+	height: 500px;w
+	background-image: url("http://estag.fimagenes.com/img/2/2/X/s/2Xs_900.jpg");
+	background-size: 50%;
+
+}
+

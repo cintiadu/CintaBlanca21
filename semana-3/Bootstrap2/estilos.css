@@ -1,0 +1,30 @@
+* {background: #262626}
+
+.titulo {
+	color: white;
+	padding: 20px;
+	font-family: roboto
+	justify-content:space-around;
+}
+
+.parrafo {
+	padding: 30px;
+	width: 14rem; 
+	color: white;
+	font-family: roboto;
+    justify-content: space-around;
+}
+
+.logo {
+	padding: 15px;
+	width: 400px;
+	height: 200px;
+}  
+
+.quote {
+	color: white;
+	padding: 10px;
+	font-family: roboto
+	justify-content:space-end;
+
+}  

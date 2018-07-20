@@ -1,0 +1,19 @@
+*  /*este asterisco es para TODO*/ { background: purple;} /*esto fue para darle colorsito*/
+
+/*Los siguientes se llaman selectore: ;*/
+
+/*h1 *//*elemento o etiqueta */
+
+/*.titulo *//*clase */
+
+/*#principal */ /*id */
+
+h1 {font-size: 1.4rem;
+font-family: Helvetica; 
+color: #52BE80;  /*este es con codigo de color hexagecimal  también de puede con rgb
+ejemplo color: rgb (0,0,0);*/
+
+border: 1px solid;
+text-align: center;
+
+}
